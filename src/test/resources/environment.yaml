@@ -1,0 +1,13 @@
+---
+allEnvData:
+  - environmentName: Prod
+    environmentValues:
+      baseUrl: https://swapi.dev/api
+      port: 8080
+  - environmentName: SB
+    environmentValues:
+      baseUrl: https://sb.swapi.dev/api
+      port: 4040
+commonData:
+  starShipPath: /starships/{id}/
+  planetPath: /planets/{id}/

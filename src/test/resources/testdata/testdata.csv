@@ -1,0 +1,4 @@
+TC,userName,password,firstName,lastName,hobbies,id
+basicTestA1,a1@gmail.com,APassword123,Alpha,A,cricket#football,1
+basicTestB1,b1@gmail.com,B1_Password123,Beta,B,na,2
+basicTestB2,b2@gmail.com,B2_Password123,Charli,C,football#hockey#tt,3

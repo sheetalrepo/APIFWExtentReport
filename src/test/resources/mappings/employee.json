@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/emps/1"
+    },
+    "response": {
+        "status": 200,
+        "body": "Hello World, User 1",
+        "headers": {
+            "Content-Type": "text/plain",
+            "token": "12345"
+        }
+    }
+}
