@@ -1,6 +1,6 @@
 ### OM ###
 # Rest Assured TestNG based API Automation Framework
-@ProdBug https://www.youtube.com/c/sheetalsingh23/videos
+Explained in https://www.youtube.com/watch?v=pQdiI1Oabes&list=PLEiBaBxmVLi8cE0QZMcUmqbLwfwaHdxAT
 
 
 #How to run
